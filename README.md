@@ -36,6 +36,9 @@ Enter your credentials (username and password) to access the dashboard.
 
 ![Screenshot (63)](https://github.com/komalSingh9289/blog-cms/assets/161674778/dfb1d05e-056d-47c4-a80b-c9afc96ab28a)
 
+![Screenshot (66)](https://github.com/komalSingh9289/blog-cms/assets/161674778/23bd7233-18bc-446a-ae13-5708e8d5815c)
+
+
 ![Screenshot (64)](https://github.com/komalSingh9289/blog-cms/assets/161674778/b77ddb1a-ff51-48c9-a4bf-98c6e0dd22b4)
 
 ![Screenshot (65)](https://github.com/komalSingh9289/blog-cms/assets/161674778/5fb6ef22-ad47-4ed2-b305-46a43d0506cf)
