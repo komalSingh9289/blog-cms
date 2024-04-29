@@ -24,6 +24,21 @@ Enter your credentials (username and password) to access the dashboard.
    Open a web browser and navigate to the URL where you installed the project (e.g., http://localhost/your_project_folder/source/frontend/index.php).
 
 
+  PREVIEW......................................
+
    ![Screenshot (32)](https://github.com/komalSingh9289/blog-cms/assets/161674778/aba8565a-2549-4da2-a678-3ed287db709e)
+
+   ![Screenshot (59)](https://github.com/komalSingh9289/blog-cms/assets/161674778/e6a6a325-c800-42a7-bf74-5580348177ba)
+   
+![Screenshot (61)](https://github.com/komalSingh9289/blog-cms/assets/161674778/3049cf6c-ebb5-48bb-aa3a-a684ba6f935f)
+
+![Screenshot (62)](https://github.com/komalSingh9289/blog-cms/assets/161674778/1a93d213-0b13-49d2-9726-50732d494493)
+
+![Screenshot (63)](https://github.com/komalSingh9289/blog-cms/assets/161674778/dfb1d05e-056d-47c4-a80b-c9afc96ab28a)
+
+![Screenshot (64)](https://github.com/komalSingh9289/blog-cms/assets/161674778/b77ddb1a-ff51-48c9-a4bf-98c6e0dd22b4)
+
+![Screenshot (65)](https://github.com/komalSingh9289/blog-cms/assets/161674778/5fb6ef22-ad47-4ed2-b305-46a43d0506cf)
+
 
    
