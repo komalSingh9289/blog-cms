@@ -24,5 +24,6 @@ Enter your credentials (username and password) to access the dashboard.
    Open a web browser and navigate to the URL where you installed the project (e.g., http://localhost/your_project_folder/source/frontend/index.php).
 
 
-   
+   ![Screenshot (32)](https://github.com/komalSingh9289/blog-cms/assets/161674778/aba8565a-2549-4da2-a678-3ed287db709e)
+
    
