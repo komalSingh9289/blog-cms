@@ -29,6 +29,11 @@ For example, if your project is installed at http://localhost/your_project_folde
 PREVIEWS
 
  ![Screenshot (59)](https://github.com/komalSingh9289/blog-cms/assets/161674778/2a3868a7-3706-4798-9b7d-a999664f18dd)
+ ![Screenshot (62)](https://github.com/komalSingh9289/blog-cms/assets/161674778/85ac0f54-7454-4c82-87dd-add149551b21)
+![Screenshot (63)](https://github.com/komalSingh9289/blog-cms/assets/161674778/db282152-b4a3-414e-b64a-59afdb172748)
+![Screenshot (64)](https://github.com/komalSingh9289/blog-cms/assets/161674778/82393b8d-1350-416d-8ce0-227ac399535b)
+![Screenshot (66)](https://github.com/komalSingh9289/blog-cms/assets/161674778/f46aa037-0cd5-4dd3-99e3-ac931668f6ab)
+
 
  
  
