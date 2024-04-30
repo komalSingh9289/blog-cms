@@ -28,6 +28,7 @@ For example, if your project is installed at http://localhost/your_project_folde
 
 PREVIEWS
 
- 
+ ![Screenshot (59)](https://github.com/komalSingh9289/blog-cms/assets/161674778/2a3868a7-3706-4798-9b7d-a999664f18dd)
+
  
  
